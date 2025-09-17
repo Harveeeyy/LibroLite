@@ -17,13 +17,13 @@ A simple EPUB reader app built with Flutter. This project was created during the
 
 # 📂 Project Structure
 lib/
-├── main.dart               App entry point  
-├── reader_page.dart        Main reader screen with navigation  
-├── chapter_page.dart       Chapter display UI  
-├── epub_service.dart       Handles EPUB parsing and loading  
-└── bookmark_service.dart   Handles saving/loading bookmarks
+├── main.dart                 
+├── reader_page.dart         
+├── chapter_page.dart         
+├── epub_service.dart       
+└── bookmark_service.dart   
 assets/
-└── books/                  Place your .epub files here
+└── books/                  
 
 # 🛠 Dependencies
 
