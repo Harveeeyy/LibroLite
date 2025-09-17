@@ -1,7 +1,6 @@
 # 📚 LibroLite
 
-A simple EPUB reader app built with Flutter. This project was created during the summer as a personal refresher project with the help of AI to practice Flutter development, state management, and working with external packages like epubx and flutter_html.
-
+LibroLite is a simple Flutter EPUB Reader built as a personal summer refresher project with the help of AI to practice Flutter development, state management, and working with external packages like epubx and flutter_html.
 
 # ✨ Features
 
